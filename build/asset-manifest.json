@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Y_LAB_University_task_1/static/css/main.084a1cb1.css",
+    "main.js": "/Y_LAB_University_task_1/static/js/main.2140e47c.js",
+    "index.html": "/Y_LAB_University_task_1/index.html",
+    "main.084a1cb1.css.map": "/Y_LAB_University_task_1/static/css/main.084a1cb1.css.map",
+    "main.2140e47c.js.map": "/Y_LAB_University_task_1/static/js/main.2140e47c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084a1cb1.css",
+    "static/js/main.2140e47c.js"
+  ]
+}
